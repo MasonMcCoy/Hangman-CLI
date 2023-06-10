@@ -116,7 +116,7 @@ def isGameWon(wordChars, playerChars):
         gameWon = False
     return gameWon
 
-play()
+#play()
 
 # NOTES FOR V2
 # Add definition lookup for the words at the end of the game
